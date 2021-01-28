@@ -1,0 +1,987 @@
+@media (min-width: 1400px) {}
+
+/* ===============================Double Extra Large Device End=============================== */
+/* ===============================Extra Large Device Start==================================== */
+@media (min-width: 1200px) and (max-width: 1399.88px) {
+    .bancont {
+        height: 800px;
+    }
+    
+    .bancont .draggable {
+        height: 800px;
+    }
+    
+    .clr {
+        height: 800px;
+    }
+    
+    
+    .main_menu .menu_items li {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    
+    .main_menu .menu_items li a {
+        margin: 0;
+    }
+    
+    .main_menu .menu_items li a::after {
+        bottom: 0px;
+    }
+    
+    .banner_text_pos .text_slider .banner_text {
+        height: 410px;
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+        padding-top: 100px;
+        transform: rotate(0deg) scale(1);
+        -webkit-transform: rotate(0deg) scale(1);
+        -moz-transform: rotate(0deg) scale(1);
+        -ms-transform: rotate(0deg) scale(1);
+        -o-transform: rotate(0deg) scale(1);
+        transition: all linear .4s !important;
+        -webkit-transition: all linear .4s !important;
+        -moz-transition: all linear .4s !important;
+        -ms-transition: all linear .4s !important;
+        -o-transition: all linear .4s !important;
+    }
+    
+    .banner_text_pos .text_slider .banner_text h1 {
+        font-family: 'Exo', sans-serif;
+        font-weight: 800;
+        font-size: 50px;
+        text-transform: uppercase;
+        color: #FAB702;
+    }
+    .banner_text_pos .text_slider .banner_text h2{
+        font-weight: 200;
+        font-size: 20px;
+    }
+    
+    .banner_text_pos .text_slider .banner_text p {
+        padding-top: 5px;
+        font-size: 18px;
+        color: #999999;
+    }
+    
+
+
+
+/* ====================Service part====================== */
+
+    #service_part .serv_text {
+        padding: 140px 0;
+    }
+
+    #service_part .serv_text .overley {
+        padding-top: 70px;
+    }
+
+
+
+}
+
+/* ===============================Extra Large Device End===================================== */
+/* ===============================Large Device Start========================================= */
+@media (min-width: 992px) and (max-width: 1199.88px) {
+    .bancont {
+        height: 800px;
+    }
+    
+    .bancont .draggable {
+        height: 800px;
+    }
+    
+    .clr {
+        height: 800px;
+    }
+    
+    
+    .main_menu .menu_items li {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    
+    .main_menu .menu_items li a {
+        margin: 0;
+    }
+    
+    .main_menu .menu_items li a::after {
+        bottom: 0px;
+    }
+    
+    .banner_text_pos .text_slider .banner_text {
+        height: 410px;
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+        padding-top: 100px;
+        transform: rotate(0deg) scale(1);
+        -webkit-transform: rotate(0deg) scale(1);
+        -moz-transform: rotate(0deg) scale(1);
+        -ms-transform: rotate(0deg) scale(1);
+        -o-transform: rotate(0deg) scale(1);
+        transition: all linear .4s !important;
+        -webkit-transition: all linear .4s !important;
+        -moz-transition: all linear .4s !important;
+        -ms-transition: all linear .4s !important;
+        -o-transition: all linear .4s !important;
+    }
+    
+    .banner_text_pos .text_slider .banner_text h1 {
+        font-family: 'Exo', sans-serif;
+        font-weight: 800;
+        font-size: 50px;
+        text-transform: uppercase;
+        color: #FAB702;
+    }
+    .banner_text_pos .text_slider .banner_text h2{
+        font-weight: 200;
+        font-size: 20px;
+    }
+    
+    .banner_text_pos .text_slider .banner_text p {
+        padding-top: 5px;
+        font-size: 18px;
+        color: #999999;
+    }
+    
+    /* =================Banner Part End===================== */
+    /* =================About Part Start===================== */
+    #about_part .about_text {
+        padding: 0;
+    }
+    /* =================About Part End======================= */
+    /* =================Service Part start======================= */
+    #service_part .serv_text{
+        margin-bottom: 24px;
+    }
+    /* =================Service Part End========================= */
+
+       /* =================Portfolio Part start======================= */
+       #portfolio_part .port_work:hover .overley p {
+        top: 40%;
+        
+    }
+    /* =================Portfolio Part End========================= */
+
+       /* =================Counter Part start======================= */
+       #counter_part .count_box p {
+        font-size: 20px;
+    }
+    /* =================Counter Part End========================= */
+
+       /* =================Footer Part start======================= */
+       #footer_part .foot_logo {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    /* =================Footer Part End========================= */
+    
+
+
+}
+
+/* ===============================Large Device End========================================= */
+/* ===============================Medium Device Start========================================= */
+@media (min-width: 768px) and (max-width: 991.88px) {
+    .bancont {
+        height: 650px;
+    }
+    
+    .bancont .draggable {
+        height: 650px;
+    }
+    
+    .clr {
+        height: 650px;
+    }
+    
+    .main_menu .menu_items {
+        background-color: #353535;
+    }
+    
+    .main_menu .menu_items li {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    
+    .main_menu .menu_items li a {
+        margin: 0;
+    }
+    
+    .main_menu .menu_items li a::after {
+        bottom: 0px;
+    }
+    
+    .banner_text_pos .text_slider .banner_text {
+        height: 410px;
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+        padding-top: 100px;
+        transform: rotate(0deg) scale(1);
+        -webkit-transform: rotate(0deg) scale(1);
+        -moz-transform: rotate(0deg) scale(1);
+        -ms-transform: rotate(0deg) scale(1);
+        -o-transform: rotate(0deg) scale(1);
+        transition: all linear .4s !important;
+        -webkit-transition: all linear .4s !important;
+        -moz-transition: all linear .4s !important;
+        -ms-transition: all linear .4s !important;
+        -o-transition: all linear .4s !important;
+    }
+    
+    .banner_text_pos .text_slider .banner_text h1 {
+        font-family: 'Exo', sans-serif;
+        font-weight: 800;
+        font-size: 50px;
+        text-transform: uppercase;
+        color: #FAB702;
+    }
+    .banner_text_pos .text_slider .banner_text h2{
+        font-weight: 200;
+        font-size: 20px;
+    }
+    
+    .banner_text_pos .text_slider .banner_text p {
+        padding-top: 5px;
+        font-size: 18px;
+        color: #999999;
+    }
+    
+    /* =================Banner Part End===================== */
+    /* =================About Part Start=================== */
+    body{
+        font-size: 15px;
+    }
+    #about_part .about_text {
+        padding: 0;
+        text-align: justify;
+    }
+    #about_part .about_text h1,
+    #about_part .about_text h3{
+        text-align: center;
+    }
+    #about_part .about_text h1{
+        font-size: 32px;
+    }
+    #about_part .about_text h3{
+        font-size: 22px;
+    }
+    
+    #about_part .about_image {
+        margin-bottom: 95%;
+    }
+    
+    #about_part a.down_text {
+        font-family: 'Exo', sans-serif;
+        font-weight: 500;
+        font-size: 14px;
+        text-transform: uppercase;
+        padding: 6px 14px;
+        border: 1px solid #FAB702;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        color: #ffffff;
+        transition: all linear .3s;
+        -webkit-transition: all linear .3s;
+        -moz-transition: all linear .3s;
+        -ms-transition: all linear .3s;
+        -o-transition: all linear .3s;
+    }
+    #about_part a.down_text:hover{
+        background-color: #FAB702;
+        color: #111111;
+    }
+    /* =================About Part End===================== */
+    /* =================Service Part Start===================== */
+    #service_part {
+        margin-top: 50px;
+        padding-top: 40px;
+    }
+    .section_head h2 {
+        font-size: 32px;
+    }
+    .section_head h3 {
+        font-size: 15px;
+    }
+    #service_part .serv_text {
+        padding: 130px 0 160px;
+        margin-bottom: 30px;
+    }
+    #service_part .serv_icon {
+        width: 40px;
+        height: 40px;
+    }
+    #service_part .serv_text i{
+        font-size: 20px;
+    }
+    #service_part .serv_text h5 {
+        font-size: 22px;
+    }
+    
+    #service_part .serv_text .overley {
+        top: 95%;
+        left: 0;
+        padding: 60px 0;
+    }
+    #service_part .serv_text .overley i {
+        font-size: 18px;
+    }
+    #service_part .serv_text .overley h5 {
+        font-family: 'Exo', sans-serif;
+        font-weight: 500;
+        color: #111111;
+        font-size: 20px;
+        text-transform: uppercase;
+        padding-bottom: 8px;
+    }
+    #service_part .serv_text .overley p {
+        font-size: 15px;
+        padding: 0 50px;
+    }
+    
+    /* =================Service Part End======================= */
+    
+    /* =================Counter Part Start===================== */
+    #counter_part {
+        margin-top: 50px;
+        padding: 60px 0;
+    }
+    #counter_part .count_box i {
+        font-size: 22px;
+        color: #ffffff;
+    }
+    #counter_part .count_box span {
+        font-size: 30px;
+    }
+    #counter_part .count_box p {
+        font-size: 20px;
+    }
+    #counter_part .count_box {
+        margin-bottom: 30px;
+    }
+    /* =================Counter Part End======================= */
+    
+    /* =================Portfolio Part Start===================== */
+    #portfolio_part .port_work .overley i {
+        font-size: 40px;
+    }
+    #portfolio_part .port_work .overley p {
+        font-size: 20px;
+    }
+    #portfolio_part .port_work:hover .overley p {
+        top: 40%;
+    }
+    #portfolio_part .port_work {
+        margin-bottom: 30px;
+    }
+    /* =================Portfolio Part End======================= */
+    
+    
+    
+    /* =================Testimonial Part Start===================== */
+    .testi_bgr {
+        margin-top: 30px;
+    }
+    #testi_script{
+        padding-top: 40px;
+    }
+    #testi_script .testi_content p{
+        padding: 0 25px;
+    }
+    /* =================Testimonial Part End======================= */
+    
+    /* =================Blog Part Start===================== */
+    #blog_part {
+        padding-bottom: 50px;
+    }
+    
+    #blog_part .blog_content {
+        margin-bottom: 30px;
+        
+    }
+    /* =================Blog Part End======================= */
+    
+    /* =================Footer Part Start===================== */
+    #footer_part .foot_logo {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    #footer_part .head h5 {
+        font-size: 20px;
+    }
+    #footer_part .contact_text {
+        margin-top: 30px;
+        padding-left: 0;
+    }
+    #footer_part .contact_text .wone {
+        padding: 15px 0;
+    }
+    #footer_part .contact_text .wone p {
+        font-size: 14px;
+    }
+    #footer_part .contact_text .wone i {
+        font-size: 25px;
+    }
+    #footer_part .sign_up{
+        margin-top: 30px;
+    }
+    #footer_part .sign_up .toch {
+        padding-left: 15px;
+    }
+    #footer_part .sign_up .toch h5 {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    #footer_part .sign_up h1 {
+        padding-left: 15px;
+    }
+    #footer_part .contact_text .wone .one_icon {
+        text-align: center;
+    }
+    #footer_part .sign_up .toch ul li a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+    /* =================Footer Part End======================= */
+    
+
+
+
+
+
+}
+
+/* ===============================Medium Device End========================================= */
+/* ===============================Small Device Start========================================= */
+@media (min-width: 576px) and (max-width: 767.88px) {
+    /* =================Banner Part start=================== */
+.bancont {
+    height: 620px;
+}
+
+.bancont .draggable {
+    height: 620px;
+}
+
+.clr {
+    height: 620px;
+}
+
+.main_menu .menu_items {
+    background-color: #353535;
+}
+
+.main_menu .menu_items li {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.main_menu .menu_items li a {
+    margin: 0;
+}
+
+.main_menu .menu_items li a::after {
+    bottom: 0px;
+}
+
+.banner_text_pos .text_slider .banner_text {
+    height: 410px;
+    width: 100%;
+    padding-left: 0;
+    text-align: center;
+    padding-top: 100px;
+    transform: rotate(0deg) scale(1);
+    -webkit-transform: rotate(0deg) scale(1);
+    -moz-transform: rotate(0deg) scale(1);
+    -ms-transform: rotate(0deg) scale(1);
+    -o-transform: rotate(0deg) scale(1);
+    transition: all linear .4s !important;
+    -webkit-transition: all linear .4s !important;
+    -moz-transition: all linear .4s !important;
+    -ms-transition: all linear .4s !important;
+    -o-transition: all linear .4s !important;
+}
+
+.banner_text_pos .text_slider .banner_text h1 {
+    font-family: 'Exo', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #FAB702;
+}
+.banner_text_pos .text_slider .banner_text h2{
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.banner_text_pos .text_slider .banner_text p {
+    font-size: 16px;
+    color: #999999;
+}
+
+/* =================Banner Part End===================== */
+/* =================About Part Start=================== */
+#about_part .about_text {
+    padding: 0;
+    text-align: justify;
+}
+#about_part .about_text h1,
+#about_part .about_text h3{
+    text-align: center;
+}
+#about_part .about_text h1{
+    font-size: 28px;
+}
+#about_part .about_text h3{
+    font-size: 20px;
+}
+
+#about_part .about_image {
+	margin-bottom: 95%;
+}
+
+#about_part a.down_text {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+    font-size: 14px;
+	text-transform: uppercase;
+	padding: 6px 14px;
+	border: 1px solid #FAB702;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	color: #ffffff;
+	transition: all linear .3s;
+	-webkit-transition: all linear .3s;
+	-moz-transition: all linear .3s;
+	-ms-transition: all linear .3s;
+    -o-transition: all linear .3s;
+}
+#about_part a.down_text:hover{
+    background-color: #FAB702;
+    color: #111111;
+}
+/* =================About Part End===================== */
+/* =================Service Part Start===================== */
+#service_part {
+	margin-top: 50px;
+	padding-top: 40px;
+}
+.section_head h2 {
+	font-size: 28px;
+}
+.section_head h3 {
+	font-size: 15px;
+}
+#service_part .serv_text {
+    padding: 130px 0 160px;
+    margin-bottom: 30px;
+}
+#service_part .serv_icon {
+	width: 40px;
+	height: 40px;
+}
+#service_part .serv_text i{
+    font-size: 18px;
+}
+#service_part .serv_text h5 {
+	font-size: 18px;
+}
+
+#service_part .serv_text .overley {
+	top: 95%;
+	left: 0;
+	padding: 60px 0;
+}
+#service_part .serv_text .overley i {
+	font-size: 18px;
+}
+#service_part .serv_text .overley h5 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	color: #111111;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding-bottom: 8px;
+}
+#service_part .serv_text .overley p {
+	font-size: 15px;
+	padding: 0 50px;
+}
+
+/* =================Service Part End======================= */
+
+/* =================Counter Part Start===================== */
+#counter_part {
+	margin-top: 50px;
+	padding: 60px 0;
+}
+#counter_part .count_box i {
+	font-size: 22px;
+	color: #ffffff;
+}
+#counter_part .count_box span {
+	font-size: 30px;
+}
+#counter_part .count_box p {
+	font-size: 20px;
+}
+#counter_part .count_box {
+	margin-bottom: 30px;
+}
+/* =================Counter Part End======================= */
+
+/* =================Portfolio Part Start===================== */
+#portfolio_part .port_work .overley i {
+	font-size: 36px;
+}
+#portfolio_part .port_work:hover .overley p {
+	top: 40%;
+}
+#portfolio_part .port_work {
+	margin-bottom: 30px;
+}
+/* =================Portfolio Part End======================= */
+
+
+
+/* =================Testimonial Part Start===================== */
+.testi_bgr {
+	margin-top: 30px;
+}
+#testi_script{
+    padding-top: 40px;
+}
+#testi_script .testi_content p{
+    padding: 0 25px;
+}
+/* =================Testimonial Part End======================= */
+
+/* =================Blog Part Start===================== */
+#blog_part {
+	padding-bottom: 50px;
+}
+
+#blog_part .blog_content {
+    margin-bottom: 30px;
+	
+}
+/* =================Blog Part End======================= */
+
+/* =================Footer Part Start===================== */
+#footer_part .foot_logo {
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+#footer_part .contact_text {
+    margin-top: 30px;
+    padding-left: 15px;
+}
+#footer_part .contact_text .wone {
+	padding: 15px 0;
+}
+#footer_part .contact_text .wone p {
+	font-size: 16px;
+}
+#footer_part .contact_text .wone i {
+	font-size: 25px;
+}
+#footer_part .sign_up{
+    margin-top: 40px;
+}
+#footer_part .sign_up .toch {
+	padding-left: 15px;
+}
+#footer_part .sign_up h1 {
+	padding-left: 15px;
+}
+#footer_part .contact_text .wone .one_icon {
+	text-align: center;
+}
+/* =================Footer Part End======================= */
+
+
+
+
+
+
+}
+
+/* ===============================Small Device End========================================= */
+
+
+
+/* ===============================Extra small Device start==================================== */
+@media (max-width: 575.88px) {
+/* =================Banner Part start=================== */
+.bancont {
+    height: 620px;
+}
+
+.bancont .draggable {
+    height: 620px;
+}
+
+.clr {
+    height: 620px;
+}
+
+.main_menu .menu_items {
+    background-color: #353535;
+}
+
+.main_menu .menu_items li {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.main_menu .menu_items li a {
+    margin: 0;
+}
+
+.main_menu .menu_items li a::after {
+    bottom: 0px;
+}
+
+.banner_text_pos .text_slider .banner_text {
+    height: 410px;
+    width: 100%;
+    padding-left: 0;
+    text-align: center;
+    padding-top: 100px;
+    transform: rotate(0deg) scale(1);
+    -webkit-transform: rotate(0deg) scale(1);
+    -moz-transform: rotate(0deg) scale(1);
+    -ms-transform: rotate(0deg) scale(1);
+    -o-transform: rotate(0deg) scale(1);
+    transition: all linear .4s !important;
+    -webkit-transition: all linear .4s !important;
+    -moz-transition: all linear .4s !important;
+    -ms-transition: all linear .4s !important;
+    -o-transition: all linear .4s !important;
+}
+
+.banner_text_pos .text_slider .banner_text h1 {
+    font-family: 'Exo', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #FAB702;
+}
+.banner_text_pos .text_slider .banner_text h2{
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.banner_text_pos .text_slider .banner_text p {
+    font-size: 16px;
+    color: #999999;
+}
+
+/* =================Banner Part End===================== */
+/* =================About Part Start=================== */
+#about_part .about_text {
+    padding: 0;
+    text-align: justify;
+}
+#about_part .about_text h1,
+#about_part .about_text h3{
+    text-align: center;
+}
+#about_part .about_text h1{
+    font-size: 28px;
+}
+#about_part .about_text h3{
+    font-size: 20px;
+}
+/* #about_part .about_clr{
+    height: 285px;
+} */
+#about_part .about_image {
+	margin-bottom: 95%;
+}
+
+#about_part a.down_text {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+    font-size: 14px;
+	text-transform: uppercase;
+	padding: 6px 14px;
+	border: 1px solid #FAB702;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	color: #ffffff;
+	transition: all linear .3s;
+	-webkit-transition: all linear .3s;
+	-moz-transition: all linear .3s;
+	-ms-transition: all linear .3s;
+    -o-transition: all linear .3s;
+}
+#about_part a.down_text:hover{
+    background-color: #FAB702;
+    color: #111111;
+}
+/* =================About Part End===================== */
+/* =================Service Part Start===================== */
+#service_part {
+	margin-top: 50px;
+	padding-top: 40px;
+}
+.section_head h2 {
+	font-size: 28px;
+}
+.section_head h3 {
+	font-size: 15px;
+}
+#service_part .serv_text {
+    padding: 130px 0 160px;
+    margin-bottom: 30px;
+}
+#service_part .serv_icon {
+	width: 40px;
+	height: 40px;
+}
+#service_part .serv_text i{
+    font-size: 18px;
+}
+#service_part .serv_text h5 {
+	font-size: 18px;
+}
+
+#service_part .serv_text .overley {
+	top: 95%;
+	left: 0;
+	padding: 60px 0;
+}
+#service_part .serv_text .overley i {
+	font-size: 18px;
+}
+#service_part .serv_text .overley h5 {
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+	color: #111111;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding-bottom: 8px;
+}
+#service_part .serv_text .overley p {
+	font-size: 15px;
+	padding: 0 50px;
+}
+
+/* =================Service Part End======================= */
+
+/* =================Counter Part Start===================== */
+#counter_part {
+	margin-top: 50px;
+	padding: 60px 0;
+}
+#counter_part .count_box i {
+	font-size: 22px;
+	color: #ffffff;
+}
+#counter_part .count_box span {
+	font-size: 30px;
+}
+#counter_part .count_box p {
+	font-size: 20px;
+}
+#counter_part .count_box {
+	margin-bottom: 30px;
+}
+/* =================Counter Part End======================= */
+
+/* =================Portfolio Part Start===================== */
+#portfolio_part .port_work .overley i {
+	font-size: 36px;
+}
+#portfolio_part .port_work:hover .overley p {
+	top: 40%;
+}
+#portfolio_part .port_work {
+	margin-bottom: 30px;
+}
+/* =================Portfolio Part End======================= */
+
+
+
+/* =================Testimonial Part Start===================== */
+.testi_bgr {
+	margin-top: 30px;
+}
+#testi_script{
+    padding-top: 40px;
+}
+#testi_script .testi_content p{
+    padding: 0 25px;
+}
+/* =================Testimonial Part End======================= */
+
+/* =================Blog Part Start===================== */
+#blog_part {
+	padding-bottom: 50px;
+}
+#blog_part .blog_head{
+    padding: 40px 0 70px;
+}
+#blog_part .blog_content {
+    margin-bottom: 30px;
+	
+}
+/* =================Blog Part End======================= */
+
+/* =================Footer Part Start===================== */
+#footer_part .foot_logo {
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+#footer_part .contact_text {
+    margin-top: 30px;
+    padding-left: 15px;
+}
+#footer_part .contact_text .wone {
+	padding: 15px 0;
+}
+#footer_part .contact_text .wone p {
+	font-size: 14px;
+}
+#footer_part .contact_text .wone i {
+	font-size: 25px;
+}
+#footer_part .sign_up{
+    margin-top: 40px;
+}
+#footer_part .sign_up .toch {
+	padding-left: 15px;
+}
+#footer_part .sign_up h1 {
+	padding-left: 15px;
+}
+/* =================Footer Part End======================= */
+
+/* =================Service Part Start===================== */
+/* =================Service Part End======================= */
+
+
+
+
+
+
+
+
+}
+
+/* ===============================Extra small Device End==================================== */
